@@ -13,10 +13,13 @@
 	<version>0.0.1</version>
 	<name>argPrograma</name>
 	<description>Backend Portfolio WEB</description>
-	<properties>
+        <properties>
+                <java.version>17</java.version>
+        </properties>
+        <!--<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
                 <maven.compiler.source>1.8</maven.compiler.source>
-	</properties>
+	</properties>-->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
